@@ -6,10 +6,7 @@ plotly==5.24.1
 scikit-learn==1.5.2
 python-multipart==0.0.9
 
-# Optional: for local LLM or AI text generation (comment out if not needed)
-transformers==4.45.2
-accelerate==0.34.2
-torch>=2.2.0
+
 
 # Utility libraries
 matplotlib==3.9.2
